@@ -24,8 +24,6 @@ Components involved:
 - Remote Controller
 - Cup Holders 
 
-<img width="1258" alt="Screen Shot 2023-05-22 at 6 52 14 PM" src="https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/04342290-e9a7-4fae-b33c-3410999929f5">
-
 The architecture of the robot initially started out as a tall stool connected to either side of the hoverboard chassis. We had used the stool stop to connect the two hind legs of the chair to the chassis, and hand-sawed two wooden pieces which the two front legs of the chair fit into. At the bottom of these wooden pieces, we had glued caster (free to rotate) wheels. We then fashioned two cross beams with an inch deep etch in either side to secure the beam on either side. You can see some images of the early design process below:
 
 ![pic1](https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/944cb558-42ef-4f90-b929-6b90908cdd4d)
@@ -33,14 +31,9 @@ The architecture of the robot initially started out as a tall stool connected to
 ![pic3](https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/cfe62c7c-bf7b-4005-90cd-95368fed1710)
 
 
-In practice, however, we found that the structure was too unstable to be used as a longer term solution, so we pivoted to a lower center of mass architecture with a wider flat surface.
-After several iterations of design, we landed on an architecture that utilizes the hoverboard chassis widened more than the default width and its two wheels. The main platform consists of a rectangular wooden board that is clamped on either side to the hoverboard chassis, with a custom cardboard container attached on the hoverboard side to house our electronics used: the Pi, O drive, portable power source for the pi, power source for the O drive, and all associated cables.
+In practice, however, we found that the structure was too unstable to be used as a longer term solution, so we pivoted to a lower center of mass architecture with a wider flat surface. After several iterations of design, we landed on an architecture that utilizes the hoverboard chassis widened more than the default width and its two wheels. The main platform consists of a rectangular wooden board that is clamped on either side to the hoverboard chassis, with a custom cardboard container attached on the hoverboard side to house our electronics used: the Pi, O drive, portable power source for the pi, power source for the O drive, and all associated cables. The overall architecture sketch can be seen below:
 
-
-
-
-
-
+<img width="1258" alt="Screen Shot 2023-05-22 at 6 52 14 PM" src="https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/04342290-e9a7-4fae-b33c-3410999929f5">
 
 ## Interactions
 A compiled video of interactions with Picnicbot can be found at this link: [Picnicbot movie](https://drive.google.com/file/d/1ZNNgP3XWHHizdWEf-BpbTmtPwc-Q37ql/view?usp=share_link).
