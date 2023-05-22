@@ -10,7 +10,10 @@ Picnicbot is a robot designed to support picnics. At ~1 foot tall and ~9 square 
 
 
 ## Code
-TO UPLOAD & LINK
+
+[O-drive command code](odrive_command.py)
+
+[Keymapping code](keymapping_node.py)
 
 ## Architecture
 []
