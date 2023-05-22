@@ -4,8 +4,10 @@ by Celine Lee (cl923); Arushi Nigam (an452); Antony Tahan (at674)
 
 Picnicbot is a robot designed to support picnics. At ~1 foot tall and ~9 square feet flat surface area, Picnicbot brings music, food, drinks, and anything else to human picnicers. It is calibrated to operate at a relatively low speed on grassy and carpeted terrain so that it can effectively and safely carry food of various rigidities.
 
-![storyboard](Lab6/storyboard.jpg?raw=true)
-![birthday_storyboard](Lab7/storyboard.png)
+<img width="776" alt="storyboard" src="https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/cfdb00c3-1d9d-44c8-a8c7-4ba87ad38ff2">
+
+![birthdayboy](https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/1f0266d6-026d-4c4d-b3a7-f1fa16fcf3de)
+
 
 ## Code
 TO UPLOAD & LINK
