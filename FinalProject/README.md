@@ -22,7 +22,9 @@ An early-study iteration of Picnicbot can be found at this link: [Birthday setti
 
 ## Photos
 Picnicbot has a flat platform. The electronics are organized on the back end of the chassis, then covered with a rectangular prism. The covering of the electronics serves as a heightened platform so that Picnicbot can carry even more picnic goods. A cylindrical support is constructed on the far end of Picnicbot, away from the electronics, for holding cups of liquid or any other picnic item that is taller and needs vertical support. All constructions are covered with a checkered cloth to reinforce the picnic-like sentiment.
-![picnicbot](picnicbot.jpeg)
+
+![picnicbot](https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/5a499ad3-5674-4f4c-b803-f02a9265f035)
+
 
 # Interaction Study
 
