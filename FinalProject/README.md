@@ -24,7 +24,7 @@ Components involved:
 - Remote Controller
 - Cup Holders 
 
-<img width="735" alt="Screen Shot 2023-05-22 at 6 47 58 PM" src="https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/3c489bc1-afc2-49cd-8f3e-c60936bd34d3">
+<img width="1258" alt="Screen Shot 2023-05-22 at 6 52 14 PM" src="https://github.com/Arushi1912/Mobile_HRI_Lab_Hub/assets/31280357/04342290-e9a7-4fae-b33c-3410999929f5">
 
 The architecture of the robot initially started out as a tall stool connected to either side of the hoverboard chassis. We had used the stool stop to connect the two hind legs of the chair to the chassis, and hand-sawed two wooden pieces which the two front legs of the chair fit into. At the bottom of these wooden pieces, we had glued caster (free to rotate) wheels. We then fashioned two cross beams with an inch deep etch in either side to secure the beam on either side. You can see some images of the early design process below:
 
